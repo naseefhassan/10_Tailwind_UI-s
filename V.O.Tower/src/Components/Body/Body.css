@@ -1,0 +1,12 @@
+@media (min-width:1000px),(max-width:2560px){
+    .edit{
+        height: 480px;
+       
+    }
+
+}
+@media(min-width:768px),(max-width:1000px){
+    .edit{
+        height: 530px;
+    }
+}
